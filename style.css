@@ -13,9 +13,9 @@ h3 {
   color: rgba(255, 83, 13, 1.0);
   font-size: 12px;
 }h5 {
-  color: blue;
+  color: black;
   font-size: 9px;
 }
 a{
-	text-decoration="none";
+	text-decoration:none;
 }
