@@ -12,11 +12,12 @@ h3 {
   color: rgb(255, 83, 255);
   font-size: 18px;
 }h4 {
-  color: rgba(255, 83, 13, 1.0);
+  color: rgba(36, 243, 40, 1.0);
   font-size: 12px;
 }h5 {
   color: black;
   font-size: 9px;
+  text-align: left;
 }
 a{
 	text-decoration:none;
