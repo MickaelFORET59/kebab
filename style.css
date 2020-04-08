@@ -26,3 +26,7 @@ a{
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 16px;
 }
+img {
+	width: 50px;
+	height: auto;
+}
